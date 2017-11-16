@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Hux Blog
 
 ###[View Live Hux Blog &rarr;](https://huangxuan.me)
@@ -317,3 +318,6 @@ Copyright (c) 2015-2016 Huxpro
 
 Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
+=======
+# Freak-Lew.github.io
+>>>>>>> 603283a0777d328be6c39ab70dd008bde4fa5dfa
